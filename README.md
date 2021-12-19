@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @github-pratik
-- 👀 I’m interested in Java, C, website
+- 👀 I’m interested in Java, C++, Website
 - 🌱 I’m currently learning Java and responsive website
 - 📫 How to reach me shorturl.at/lrG57
 
