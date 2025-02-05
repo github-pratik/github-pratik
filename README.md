@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [chiragferwani.vercel.app](https://pratikpatil.vercel.app/)
+- 👨‍💻 All of my projects are available at [pratik.vercel.app](https://pratikpatil.vercel.app/)
 
 - 📝 My Linkedin [Linkedin](https://www.linkedin.com/in/pshpatil/)
 
