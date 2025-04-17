@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning: **Java, JavaScript, React, Android Development, WebSocket**
 - 👯 Looking to collaborate on: **Open-source & real-world projects**
-- 👨‍💻 Portfolio: [pratikpatil.vercel.app](https://pratikpatil.vercel.app/)
+- 👨‍💻 Portfolio: [pratikpatil.vercel.app](https://pratik-resv2.vercel.app/)
 - 💬 Ask me about: **Java, JavaScript, C, C++, React, Flutter**
 - 📫 Reach me at: **p.pshpatil@gmail.com**
 - 📝 Resume: [View here](https://drive.google.com/drive/u/0/folders/1nWYwwIGRNrRs_DqpEU5sJ5TTJiaUzKrz)
